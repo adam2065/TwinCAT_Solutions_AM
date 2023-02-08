@@ -1,2 +1,2 @@
-# Twincat3_Library_AM
-Library of useful functions and function blocks for Twincat 3
+# TwinCAT_Solutions_AM
+Useful functions and function blocks for Twincat 3
