@@ -1,2 +1,2 @@
 # TwinCAT_Solutions_AM
-Useful functions and function blocks for Twincat 3
+Useful functions and function blocks for TwinCAT 3
